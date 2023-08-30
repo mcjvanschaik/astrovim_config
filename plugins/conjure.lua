@@ -9,5 +9,7 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
-  "https://github.com/wlangstroth/vim-racket"
+  "olical/conjure",
+  ft = {"racket", "lisp"}
 }
+
